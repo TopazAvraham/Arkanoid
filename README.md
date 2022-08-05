@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img width="400" height="400" src="Images/10.gif">
+  <img width="600" height="500" src="Images/12.gif">
 </p>
 
 
@@ -41,27 +41,27 @@ The implementation includes in general:
 ## Screenshots
 
 <p align="left">
-  <img width="500" height="500" src="Images/1.png">
+  <img width="600" height="600" src="Images/1.png">
 </p>
 
 <p align="left">
-  <img width="500" height="500" src="Images/2.png">
+  <img width="600" height="600" src="Images/2.png">
 </p>
 
 <p align="left">
-  <img width="500" height="500" src="Images/3.png">
+  <img width="600" height="600" src="Images/3.png">
 </p>
 
 <p align="left">
-  <img width="500" height="500" src="Images/6.png">
+  <img width="600" height="600" src="Images/6.png">
 </p>
 
 <p align="left">
-  <img width="500" height="500" src="Images/4.png">
+  <img width="600" height="600" src="Images/4.png">
 </p>
 
 <p align="left">
-  <img width="500" height="500" src="Images/5.png">
+  <img width="600" height="600" src="Images/5.png">
 </p>
 
 ## Installation
