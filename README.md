@@ -45,7 +45,7 @@ The implementation includes in general:
 </p>
 
 <p align="left">
-  <img width="600" height="600" src="Images/15.png">
+  <img width="600" height="600" src="Images/16.png">
 </p>
 
 <p align="left">
