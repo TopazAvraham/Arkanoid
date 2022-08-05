@@ -41,11 +41,11 @@ The implementation includes in general:
 ## Screenshots
 
 <p align="left">
-  <img width="600" height="600" src="Images/15.png">
+  <img width="600" height="600" src="Images/2.png">
 </p>
 
 <p align="left">
-  <img width="600" height="600" src="Images/2.png">
+  <img width="600" height="600" src="Images/15.png">
 </p>
 
 <p align="left">
