@@ -1,7 +1,7 @@
 <h4 align="center">
 
 
-![](C:\Users\user\ArkanoidGame\Images\8.png)
+![](Images/8.png)
 
 </h4>
 
@@ -16,7 +16,7 @@
 
 </p>
 
-<h4 align="center">![screenshot](C:\Users\user\ArkanoidGame\Images\10.gif)</h4>
+<h4 align="center">![screenshot](Images/10.gif)</h4>
 
 ## Introduction
 
