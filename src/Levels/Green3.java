@@ -90,8 +90,7 @@ public class Green3 implements LevelInformation {
 
             }
         };
-        return new ImageBackground("C:\\Users\\user\\images\\p.jpg");
-        //return greenBackground;
+        return greenBackground;
     }
 
     /**

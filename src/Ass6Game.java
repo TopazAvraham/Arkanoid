@@ -26,10 +26,10 @@ public class Ass6Game {
         List<LevelInformation> levels = new ArrayList<>();
         //if the user didn't enter his choice
         if (args.length == 0) {
-            levels.add(new DirectHit());
-            levels.add(new WideEasy());
+           // levels.add(new DirectHit());
+          //  levels.add(new WideEasy());
             levels.add(new Green3());
-            levels.add(new FinalFour());
+          //  levels.add(new FinalFour());
         } else {
             //the user entered a choice
             for (int i = 0; i < args.length; i++) {

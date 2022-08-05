@@ -41,7 +41,7 @@ The implementation includes in general:
 ## Screenshots
 
 <p align="left">
-  <img width="600" height="600" src="Images/1.png">
+  <img width="600" height="600" src="Images/15.png">
 </p>
 
 <p align="left">
