@@ -16,9 +16,10 @@
 
 </p>
 
-<h4 align="center">![](Images/9.gif)</h4>
+<p align="center">
+  <img width="400" height="400" src="Images/10.gif">
+</p>
 
-![](Images/10.gif)
 
 ## Introduction
 
@@ -39,17 +40,29 @@ The implementation includes in general:
 
 ## Screenshots
 
-![](Images/1.png)
+<p align="left">
+  <img width="500" height="500" src="Images/1.png">
+</p>
 
-![](Images/2.png)
+<p align="left">
+  <img width="500" height="500" src="Images/2.png">
+</p>
 
-![](Images/3.png)
+<p align="left">
+  <img width="500" height="500" src="Images/3.png">
+</p>
 
-![](Images/6.png)
+<p align="left">
+  <img width="500" height="500" src="Images/6.png">
+</p>
 
-![](Images/4.png)
+<p align="left">
+  <img width="500" height="500" src="Images/4.png">
+</p>
 
-![](Images/5.png)
+<p align="left">
+  <img width="500" height="500" src="Images/5.png">
+</p>
 
 ## Installation
 1. Clone the repository:
