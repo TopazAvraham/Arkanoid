@@ -37,17 +37,17 @@ The implementation includes in general:
 
 ## Screenshots
 
-![](C:\Users\user\ass6\Images\1.png)
+![](Images/1.png)
 
-![](C:\Users\user\ass6\Images\2.png)
+![](Images/2.png)
 
-![](C:\Users\user\ass6\Images\3.png)
+![](Images/3.png)
 
-![](C:\Users\user\ass6\Images\6.png)
+![](Images/6.png)
 
-![](C:\Users\user\ass6\Images\4.png)
+![](Images/4.png)
 
-![](C:\Users\user\ass6\Images\5.png)
+![](Images/5.png)
 
 ## Installation
 1. Clone the repository:
