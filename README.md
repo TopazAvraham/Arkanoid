@@ -18,6 +18,8 @@
 
 <h4 align="center">![](Images/9.gif)</h4>
 
+![](Images/9.gif)
+
 ## Introduction
 
 This arkanoid version is the final product of a 6 months project in Java.
