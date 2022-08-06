@@ -69,12 +69,11 @@ The implementation includes in general:
     ```
     $ git clone https://github.com/TopazAvraham/Arkanoid.git
     ```
-2. run this commands:
-    ```
-    $ make compile
-    $ make run
-    ```
 
+2. Open the project from an IDE such as Intellij, VS, etc.
+3. Add the biu-oop.jar file as a global library to the Arkanoid project.
+4. Make sure an updated jdk is set in the configuration, and the src folder of Arkanoid is set as the source root.
+5. Create configuration with Ass6.java as the Main Class, run it, and enjoy!
 
 ## Built With
 
