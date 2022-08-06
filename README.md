@@ -66,7 +66,8 @@ The implementation includes in general:
 
 ## Installation
 
-Option 1 - Without Ant
+
+### Option 1 - Without Ant
 1. Clone the repository:
     ```
     $ git clone https://github.com/TopazAvraham/Arkanoid.git
@@ -78,7 +79,8 @@ Option 1 - Without Ant
 5. Create configuration with Ass6.java as the Main Class, run it, and enjoy!
 
 
-Option 2 - With Ant
+
+### Option 2 - With Ant
 1. Clone the repository:
     ```
     $ git clone https://github.com/TopazAvraham/Arkanoid.git
