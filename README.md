@@ -8,7 +8,7 @@
 <h4 align="center">let's smash together walls of bricks by playing the nostalgic "Brick Breaker" game!</h4>
 
 <p align="center">
-  <a href="#Introduction">Introduction</a> •
+  <a href="##Introduction">Introduction</a> •
   <a href="#Screenshots">Screenshots</a> •
   <a href="#Installation">Installation</a> •
   <a href="#Personal Details">Personal Details</a> •
