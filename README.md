@@ -65,15 +65,28 @@ The implementation includes in general:
 </p>
 
 ## Installation
+
+Option 1 - Without Ant
 1. Clone the repository:
     ```
     $ git clone https://github.com/TopazAvraham/Arkanoid.git
     ```
 
-2. Open the project from an IDE such as Intellij, VS, etc.
+2. Open the project from an IDE such as Intellij, Eclipse, etc.
 3. Add the biu-oop.jar file as a global library to the Arkanoid project.
 4. Make sure an updated jdk is set in the configuration, and the src folder of Arkanoid is set as the source root.
 5. Create configuration with Ass6.java as the Main Class, run it, and enjoy!
+
+
+Option 2 - With Ant
+1. Clone the repository:
+    ```
+    $ git clone https://github.com/TopazAvraham/Arkanoid.git
+    ```
+2. Install [Apache Ant](https://ant.apache.org/bindownload.cgi) Link to a guide: [Apache Ant Installation Video Windows](https://www.youtube.com/watchv=3eaW81yYIqY&t=353s&ab_channel=xscourse)
+4. Open CMD in the cloned directory and run this command:
+    ```
+    $ ant run
 
 ## Built With
 
