@@ -38,6 +38,8 @@ The implementation includes in general:
 
 💥 Working with GUI.
 
+[UML Diagram of the project](https://drive.google.com/file/d/1JezIk3r2uw9hfBMqRUZ3FaLppEjuW2Y2/view?usp=sharing)
+
 ## Screenshots
 
 <p align="left">
