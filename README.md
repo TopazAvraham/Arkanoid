@@ -24,7 +24,7 @@
 ## Introduction
 
 This Arkanoid version is the final product of Java OOP course, which I took in the 2nd semester of my 1st year at Bar Ilan University.  
-This project was coded as a five-part ongoing assignment, and intead of using Java GUI Built-In objects, I used a GUI implementation which is included in this repository. The game contains various levels with increasing difficulty and was coded while preserving generic and modularity, so adding new levels is an easy task.
+This project was coded as a five-part ongoing assignment. Instead of using Java GUI Built-In objects, I used a GUI implementation which is included in this repository. The game contains various levels with increasing difficulty, and was coded while preserving generic and modularity, so adding new levels is an easy task.
 
 The implementation includes:
 
